@@ -1,11 +1,10 @@
-**Forest Ecology and Remote Sensing**
-
+### Forest Ecology and Remote Sensing
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="40" height="40" style="margin-right: 50px;" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" style="margin-right: 50px;" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Earth Engine" width="40" height="40" style="margin-right: 50px;" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab" width="40" height="40" style="margin-right: 50px;" />
-  <img src="https://cdn.simpleicons.org/qgis/589632" alt="QGIS" width="40" height="40" style="margin-right: 50px;" />
-  <img src="https://cdn.simpleicons.org/esri/007AC2" alt="ArcGIS / Esri" width="40" height="40" style="margin-right: 50px;" />
+  <img src="https://img.shields.io/badge/--151B22?style=flat&logo=r&logoColor=276DC3" alt="R" height="35" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/--151B22?style=flat&logo=python&logoColor=3776AB" alt="Python" height="35" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/--151B22?style=flat&logo=google&logoColor=4285F4" alt="Google Earth Engine" height="35" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/--151B22?style=flat&logo=googlecolab&logoColor=F9AB00" alt="Google Colab" height="35" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/--151B22?style=flat&logo=qgis&logoColor=589632" alt="QGIS" height="35" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/--151B22?style=flat&logo=esri&logoColor=007AC2" alt="ArcGIS" height="35" />
 </p>

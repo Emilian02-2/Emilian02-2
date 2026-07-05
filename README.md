@@ -17,5 +17,3 @@ style=flat&logo=google&logoColor=4285F4" alt="Google Earth Engine" height="35" s
 </div>
 
 
-
-GIS Portfolio

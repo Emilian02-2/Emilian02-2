@@ -8,9 +8,14 @@
   <p align="center">
     <img src="https://img.shields.io/badge/--151B22?style=flat&logo=r&logoColor=276DC3" alt="R" height="35" style="margin-right: 5px;" />
     <img src="https://img.shields.io/badge/--151B22?style=flat&logo=python&logoColor=3776AB" alt="Python" height="35" style="margin-right: 5px;" />
-    <img src="https://img.shields.io/badge/--151B22?style=flat&logo=google&logoColor=4285F4" alt="Google Earth Engine" height="35" style="margin-right: 5px;" />
+    <img src="https://img.shields.io/badge/--151B22?GIS Portfolio
+style=flat&logo=google&logoColor=4285F4" alt="Google Earth Engine" height="35" style="margin-right: 5px;" />
     <img src="https://img.shields.io/badge/--151B22?style=flat&logo=googlecolab&logoColor=F9AB00" alt="Google Colab" height="35" style="margin-right: 5px;" />
     <img src="https://img.shields.io/badge/--151B22?style=flat&logo=qgis&logoColor=589632" alt="QGIS" height="35" style="margin-right: 5px;" />
     <img src="https://img.shields.io/badge/--151B22?style=flat&logo=esri&logoColor=007AC2" alt="ArcGIS" height="35" />
   </p>
 </div>
+
+
+
+GIS Portfolio
